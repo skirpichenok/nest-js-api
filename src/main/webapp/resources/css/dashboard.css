@@ -1,0 +1,18 @@
+.hidden {
+    display: none;
+}
+
+.unvisible {
+    visibility: hidden;
+}
+
+span.alarm {
+    text-align: center;
+    position: relative;
+    top: 18px;
+    left: -99px;
+    font-size: 70px;
+    color: red;
+    font-weight: bold;
+    font-family: serif;
+}
